@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommandGroup xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="26a7ae3c-3011-4aac-b20d-0dd1d8c170a2">
+  <name>РегистрыСведений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистры сведений</value>
+  </synonym>
+  <representation>Auto</representation>
+</mdclass:CommandGroup>

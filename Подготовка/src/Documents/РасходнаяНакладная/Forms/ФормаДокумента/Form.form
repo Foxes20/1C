@@ -186,6 +186,10 @@
       <dataPath xsi:type="form:DataPath">
         <segments>Объект.СписокНоменклатуры.Количество</segments>
       </dataPath>
+      <handlers>
+        <event>OnChange</event>
+        <name>СписокНоменклатурыКоличествоПриИзменении</name>
+      </handlers>
       <extendedTooltip>
         <name>СписокНоменклатурыКоличествоРасширеннаяПодсказка</name>
         <id>31</id>
